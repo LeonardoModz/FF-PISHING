@@ -11,8 +11,8 @@ BY LEO MODZ OFC
 
 # INSTALAÇÃO
 ```
-git clone https://github.com/LeonardoModz/FF-PISHING
-cd FF-PISHING
+git clone https://github.com/LeonardoModz/FF-PISHING2
+cd FF-PISHING2
 chmod +x freefire.sh
 sed -i 's/\r//' freefire.sh
 ./freefire.sh
