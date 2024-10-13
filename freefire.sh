@@ -71,7 +71,7 @@ printf "\e[1;92m     ██╔══╝  ██╔══╝      ██╔══
 printf "\e[1;92m     ██║     ██║         ██║     ██║  ██║██║███████║ ██║  ██║\e[0m\n"
 printf "\e[1;92m     ╚═╝     ╚═╝         ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝ ╚═╝  ╚═╝\e[0m\n"
 printf "\n"
-printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: @Uni-Creator \e[0m\e[1;93m.:.:.\e[0m\n"
+printf "\e[1;93m       .:.:.\e[0m\e[1;77m PHISHING TOOL MODDED by: @LEO MODZ OFC \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
 }
 
