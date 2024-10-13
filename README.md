@@ -1,7 +1,7 @@
 # FFPhish
-Created by Uni-Creator
+BY LEO MODZ OFC
 
-# Requirements
+# REQUISITOS
 1. PHP --> pkg install php -y
 2. CURL --> pkg install curl -y
 3. NGROK 
@@ -9,27 +9,20 @@ Created by Uni-Creator
 5. LYNX --> pkg install lynx
 
 
-# Installation
+# INSTALAÇÃO
 ```
-git clone https://github.com/Uni-Creator/FFPhish
+git clone https://github.com/LeonardoModz/FF-PISHING
 cd FFPish
 chmod +x freefire.sh
 sed -i 's/\r//' freefire.sh
 ./freefire.sh
 ```
 
- And you are all done!!!
+ E PRONTO!!!
 
-# Working
-Hey guys let's start some phishing and catch some I'd and password.
+# FUNCIONANDO
+EI, PESSOAL, VAMOS COMEÇAR UM POUCO DE PHISHING E PEGAR ALGUNS ID E SENHA.
 
-With this tool anyone can easily hack someone Free Fire id and password.
+COM ESTA FERRAMENTA, QUALQUER UM PODE FACILMENTE HACKEAR O ID E A SENHA DE ALGUÉM DO FREE FIRE.
 
-This tools in First step uses PHP to upload all the files on localhost and
-
-in Second step it uses Ngrok to create a cloud server and upload all the localhost files on that cloud server.
-
-and in Last but not least it uses some URL shortener websites to shorten the URL, so no one can suspect that it is a fake link.
-
-#    
-I hope you like this tool...👍🏻👍🏻👍🏻👍🏻👍🏻
+ESTA FERRAMENTA NA PRIMEIRA ETAPA USA PHP PARA CARREGAR AL
